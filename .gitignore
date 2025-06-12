@@ -1,0 +1,19 @@
+# .gitignore for ListGenie
+__pycache__/
+*.pyc
+.env
+application.log
+*.sqlite3
+*.db
+screenshot.png
+.DS_Store
+.idea/
+.vscode/
+context/
+*.ipynb_checkpoints/
+application.log
+listing.csv
+service-worker.js
+*.bak
+*.swp
+*.tmp
